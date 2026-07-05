@@ -10,17 +10,14 @@ markers:
 
       ', id: KR4f0043_krp_012-bkkkrnewl2}
   - {type: line-break, offset: 6, content: '', id: KR4f0043_WYG_012-1a02}
-  - {type: substitution, offset: 19, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4506}}
   - {type: 'kr:newline', offset: 27, content: '
 
       ', id: KR4f0043_krp_012-bkkkrnewl3}
   - {type: line-break, offset: 27, content: '', id: KR4f0043_WYG_012-1a03}
-  - {type: substitution, offset: 45, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3256}}
   - {type: 'kr:newline', offset: 48, content: '
 
       ', id: KR4f0043_krp_012-bkkkrnewl4}
   - {type: line-break, offset: 48, content: '', id: KR4f0043_WYG_012-1a04}
-  - {type: substitution, offset: 58, original: 塲, replacement: 場, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0143}}
   - {type: 'kr:newline', offset: 69, content: '
 
       ', id: KR4f0043_krp_012-bkkkrnewl5}
@@ -118,7 +115,6 @@ markers:
 
       ', id: KR4f0043_krp_012-bkkkrnewl23}
   - {type: line-break, offset: 372, content: '', id: KR4f0043_WYG_012-2a05}
-  - {type: substitution, offset: 381, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4477}}
   - {type: punctuation, offset: 388, content: (, id: KR4f0043_krp_012-bkkpn22}
   - {type: punctuation, offset: 390, content: /, id: KR4f0043_krp_012-bkkpn23}
   - {type: punctuation, offset: 390, content: ), id: KR4f0043_krp_012-bkkpn24}
@@ -136,4 +132,4 @@ markers:
 
       ', id: KR4f0043_krp_012-bkkkrnewl2}
   back: []
-hash: sha256:78fef87995667cb1ff3b58558895584028f3860d84e430ddcf9638b20e0984d6
+hash: sha256:1278db93ad4d2c0969203623c8f2a01af459f74cd458c0b6b61d9e24399ba53c
